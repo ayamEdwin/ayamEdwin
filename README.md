@@ -1,5 +1,5 @@
       
-## Hi, I'm Edwin 👋
+''' ## Hi, I'm Edwin 👋
 
 ## Robotics Researcher | Mechatronics Engineer
 
@@ -24,5 +24,5 @@ I'm always interested in collaborating on open-source robotics software, researc
 
 ---
 
-> *Building intelligent robots that understand, learn, and collaborate with humans.*
+> *Building intelligent robots that understand, learn, and collaborate with humans.* '''
 
